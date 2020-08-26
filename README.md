@@ -1,2 +1,3 @@
 # hello-world
-my first Git
+well, gotta learn this someime
+
